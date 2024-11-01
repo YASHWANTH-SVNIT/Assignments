@@ -1,3 +1,4 @@
+//PROGRAM TO FIND SIMPLE INTEREST 
 #include<stdio.h>
 int main() 
 {
