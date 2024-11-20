@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-#define s str[i]
+#define s str[i]==
 
 int main()
 {
@@ -13,7 +13,7 @@ int main()
     int vowels=0;
     for(int i=0;str[i]!='\0';i++)
     {
-        if(s=='A'||s=='E'||s=='I'||s=='O'||s=='U'||s=='a'||s=='e'||s=='i'||s=='o'||s=='u')
+        if(s'A'||s'E'||s'I'||s'O'||s'U'||s'a'||s'e'||s'i'||s'o'||s'u')
             vowels+=1;
     }
 
