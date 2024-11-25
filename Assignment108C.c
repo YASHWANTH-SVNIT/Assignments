@@ -8,7 +8,7 @@ char *strconcat(char *,char *,int);
 int main()
 {
     char str1[100],str2[200];
-    int size1=0,size2=0;
+    int size2=0;
 
     printf("Enter the string 1: ");
     scanf(" %[^\n]s",str1);
