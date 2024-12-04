@@ -42,6 +42,9 @@ int main()
         }
         printf("\n");
     }
-    
+    free(ptr1);
+    free(ptr2);
+    free(result);
+
     return 0;
 }

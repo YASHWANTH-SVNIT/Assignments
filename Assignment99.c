@@ -23,5 +23,7 @@ int main()
             vowels+=1;
     }
     printf("The number of vowels in the file is %d",vowels);
+    fclose(fptr2);
+    
     return 0;
 }
